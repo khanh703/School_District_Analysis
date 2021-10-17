@@ -1,10 +1,10 @@
 # Election Analysis 
 
 ## Purpose 
-The school board has suspected academic dishonesty in reading and math scores for the ninth grade class at Thomas High School. In order to uphold state-testing standards, the school board has requested the analysis be run again omitting the reading and math scores from the ninth graders at Thomas High School.
+The school board has suspected academic dishonesty in Reading and Math scores for the ninth grade class at Thomas High School. In order to uphold state-testing standards, the school board has requested the analysis be run again omitting the reading and math scores from the ninth graders at Thomas High School.
 
 ## Objective 
-Set reading and math scores for all ninth graders at Thomas High School to NaN. The same analysis will be ran, omitting all scores that are NaN. Analyze and report findings compared to before setting values to NaN. Changing scores to NaN, will affect
+Set reading and math scores for all ninth graders at Thomas High School to NaN. The same analysis will be ran, omitting all scores that are NaN. Analyze and report how excluding the Math and Reading scores from ninth graders at Thomas High School affects the analysis at the district, spending, and individual school level.
 
 ## Results 
 The findings are broken into three categories, at the top District, scores inside the spending range of $630-$644, and how the overall scores and passing percentages at Thomas High School were affected when omitting ninth grade scores.
